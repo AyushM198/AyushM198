@@ -1,7 +1,5 @@
 <!-- Typing SVG Greeting -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&pause=1000&width=800&color=FF7F50&color2=1E90FF&lines=Hey!+I'm+Ayush+Mandawgade;Full-Stack+Developer;AI%2FML+Learner;Code+Artist;Problem+Solver)](https://git.io/typing-svg)
-
-# 👋 Hey there! I'm Ayush Mandawgade  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&pause=1000&width=800&color=1E90FF&lines=Hey!+I'm+Ayush+Mandawgade;Full-Stack+Developer;AI%2FML+Learner;Code+Artist;Problem+Solver)](https://git.io/typing-svg)
 
 **💻 Full-Stack Developer | 🤖 AI/ML Learner | 🎨 Code Artist | 🧠 Problem Solver**  
 
